@@ -1,0 +1,21 @@
+{
+  "cadastros": [
+    {
+      "nome": "Fernando Pereira ",
+      "rg": "12345678",
+      "cpf": "161.830.590-56",
+      "aniversario": "1111-11-11",
+      "email": "fernando@email.com",
+      "id": 1
+    },
+    {
+      "nome": "Maria alguma coisa ",
+      "rg": "12345678",
+      "cpf": "161.830.590-56",
+      "aniversario": "2000-02-22",
+      "email": "maria@email.com",
+      "id": 2
+    }
+  
+  ]
+}
